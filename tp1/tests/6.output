@@ -1,0 +1,17 @@
+let -> let
+type -> type
+id -> a
+eq -> =
+id -> int
+var -> var
+id -> b
+atrib -> :=
+array -> array
+of -> of
+id -> a
+in -> in
+var -> var
+id -> c
+atrib -> :=
+int -> 1
+end -> end

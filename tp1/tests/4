@@ -1,0 +1,8 @@
+let
+    function fun1(a: string, b: int) : int = b + 4
+    function fun2(c: int) : int = c + 2
+in
+    for i := 0 to 22 do
+        i := i + 1
+        if i = 5 then fun1("", i) else fun2("", i0)
+end

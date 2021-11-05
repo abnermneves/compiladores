@@ -1,0 +1,6 @@
+
+let
+    function f (x:string, y:string) : string = y
+in
+    f("string", "\\com barra\\")
+end

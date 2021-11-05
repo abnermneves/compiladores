@@ -1,0 +1,24 @@
+let -> let
+function -> function
+id -> f
+lpar -> (
+id -> x
+colon -> :
+id -> string
+comma -> ,
+id -> y
+colon -> :
+id -> string
+rpar -> )
+colon -> :
+id -> string
+eq -> =
+id -> y
+in -> in
+id -> f
+lpar -> (
+string -> "string"
+comma -> ,
+string -> "\\com barra\\"
+rpar -> )
+end -> end

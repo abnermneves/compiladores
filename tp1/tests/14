@@ -1,0 +1,71 @@
+let
+    type sometype := array of string
+    var array1:sometype := sometype[20] of 1
+    /* 
+        tem também
+        uns comentários
+    */
+in
+    array1
+    let
+        function fun1(a: string, b: int) : int = b + 4
+        function fun2(c: int) : int = c + 2
+    in
+        for i := 0 to 22 do
+            i := i + 1
+            if i = 5 then fun1("", i) else fun2("", i0)
+        let
+            function mult(a: int, b: int) : int = a * b
+            var res : int := 0
+        in
+            resultado := mult(4, 10)
+            let
+                type a = int
+                var b := array of a
+            in
+                /* comment */
+                var c := 1
+                /*  ieraodr /*
+                eiadoie
+                eiasod */
+                let
+                    function f(x:string) : string = "aaaaa"
+                    function f(x:string) : string = "aaaaa"
+                    function f(x:string) : string = "aaaaa"
+                in
+                    let
+                        var a:= []
+                    in
+                        0
+                        let
+                            function g (a:int , b:string):int = a
+                        in
+                            g(3,"one",5)
+                            let 
+                                type tipo1 = { id: int, nome:string, idade: int }
+                                type tipo2 = array of string
+                                var a := tipo2 [10] of 0
+                                var b  := tipo2 [5] of tipo1 {id=4, nome="fran", idade=50}
+                                var c : tipo2 := tipo2 [100] of ""
+                                var d := tipo1 {id=1, nome="zé", idade=20 }
+                                var e := tipo2 {id=2, nome="jão", idade = 30}
+                            in
+                                d[2].nome := "maria";
+                                d[0].age := 40;
+                                a[5] := 114; 
+                                b[4] := 6;
+                                c[8] := "aladim";
+                                /* mas uai */
+                                let
+                                    function f (x:string, y:string) : string = y
+                                in
+                                    f("string", "\\com barra\\")
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end

@@ -1,0 +1,15 @@
+/*  ieraodr /*
+    eiadoie
+    eiasod */
+let
+    function f(x:string) : string = "aaaaa"
+    function f(x:string) : string = "aaaaa"
+    function f(x:string) : string = "aaaaa"
+
+in
+    let
+    	var a:= []
+    in
+        0
+    end
+end

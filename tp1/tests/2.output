@@ -1,0 +1,17 @@
+string -> "nao é um comentario mais"
+id -> s
+mult -> *
+mult -> *
+mult -> *
+id -> s888
+mult -> *
+string -> "agora tem mais um * e vai começar um comentário"
+mult -> *
+let -> let
+var -> var
+id -> inside
+atrib -> :=
+int -> 3
+in -> in
+int -> 0
+end -> end

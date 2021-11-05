@@ -1,0 +1,5 @@
+end
+	function func (x: string , z:int) : int = x
+let
+	func("455","string",23)
+in

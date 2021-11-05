@@ -1,0 +1,6 @@
+/* Erro: chamada do procedimento difere dos parametros formais */
+let
+    function g (a:int , b:string):int = a
+in
+    g("one", "two")
+end

@@ -1,0 +1,31 @@
+let
+    type sometype := array of string
+    var array1:sometype := sometype[20] of 1
+    /* 
+        tem também
+        uns comentários
+    */
+in
+    array1
+    let
+        function fun1(a: string, b: int) : int = b + 4
+        function fun2(c: int) : int = c + 2
+    in
+        for i := 0 to 22 do
+            i := i + 1
+            if i = 5 then fun1("", i) else fun2("", i0)
+        let
+            function mult(a: int, b: int) : int = a * b
+            var res : int := 0
+        in
+            resultado := mult(4, 10)
+            let
+                type a = int
+                var b := array of a
+            in
+                /* comment */
+                var c := 1
+            end
+        end
+    end
+end

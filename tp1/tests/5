@@ -1,0 +1,6 @@
+let
+    function mult(a: int, b: int) : int = a * b
+    var res : int := 0
+in
+    resultado := mult(4, 10)
+end

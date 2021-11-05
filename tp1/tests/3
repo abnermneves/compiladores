@@ -1,0 +1,10 @@
+let
+    type sometype := array of string
+    var array1:sometype := sometype[20] of 1
+    /* 
+        tem também
+        uns comentários
+    */
+in
+    array1
+end
